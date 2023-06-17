@@ -1,0 +1,1 @@
+I designed signup and login routes and jsonwebtoken for authorizing user and set token as heading using cookie-parser 
